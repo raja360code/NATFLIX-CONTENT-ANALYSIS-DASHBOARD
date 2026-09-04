@@ -2,7 +2,7 @@
 
 A professional data analytics project exploring global streaming trends, content catalogs, and distribution metrics using the Netflix titles dataset.
 
-![Netflix Content Analysis Dashboard](dashboard_screenshot.png)
+![Netflix Content Analysis Dashboard](https://github.com/raja360code/NATFLIX-CONTENT-ANALYSIS-DASHBOARD/blob/195506ddf1efd889aef0540006324d9f79d20966/NETFLIX%20CONTENT%20ANALYSIS%20DASHBOARD.png)
 
 ## 📊 Overview
 
